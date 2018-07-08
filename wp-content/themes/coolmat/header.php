@@ -47,7 +47,8 @@
 
 
 			<div class="language-select">
-				KR | EN
+				<a lang="ko-kr" hreflang="ko-kr" href="<?php echo site_url('/kr');?>">KR</a> |
+				<a lang="en-US" hreflang="en-US" href="<?php echo site_url();?>">EN</a>
 			</div>
 
 		</div>
